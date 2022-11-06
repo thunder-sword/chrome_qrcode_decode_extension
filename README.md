@@ -1,0 +1,2 @@
+# chrome_qrcode_decode_extension
+chrome_qrcode_decode_extension，浏览器右键二维码识别插件
